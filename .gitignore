@@ -9,6 +9,8 @@ src/assets/scss/app.scss
 _assets/
 src/assets/scss/_central.scss
 src/pages/central-on-thomas-edm.html
-node_modules/**
+node_modules/*
+!node_modules/foundation-emails
+node_modules/foundation-emails/*
 !node_modules/foundation-emails/scss
 
