@@ -1,8 +1,14 @@
 .DS_Store
-node_modules
 npm-debug.log
 bower_components
 dist
 .sass-cache
 .awspublish*
 config.json
+src/assets/scss/app.scss
+_assets/
+src/assets/scss/_central.scss
+src/pages/central-on-thomas-edm.html
+node_modules/**
+!node_modules/foundation-emails/scss
+
